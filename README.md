@@ -36,4 +36,5 @@ Dataset: https://www.kaggle.com/datasets/imakash3011/customer-personality-analys
 * Plotly
 * Scipy
 * Seaborn
-* Sklearn 
+* Sklearn
+* Yellowbrick
